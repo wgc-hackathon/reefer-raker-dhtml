@@ -1,0 +1,76 @@
+
+/* credit to for navigation styling https://itnext.io/how-to-create-a-responsive-navigation-bar-with-html-css-and-jquery-step-by-step-tutorial-9c780b58479f */
+
+/* 
+  sets the list style type to none so
+  headings will not be bulletted
+*/
+li{
+  list-style-type: none;
+}
+
+/* 
+  style for link
+*/
+
+a{
+
+  /* no underline */
+  text-decoration: none;
+
+  /* set colour of text to black */
+  color: black;
+
+  /* add some padding around link */
+  padding: 2vw;
+
+  /* set the font */
+  font-family: monospace;
+
+}
+
+nav a:hover{
+
+  /* when you hover over the link change the background colour */
+  background-color: #C6E9FF;
+}
+
+nav{
+  /* set the width to 100% of the viewport width */
+  width: 100vw;
+
+  /* move the navigation to the top right */
+  position: relative;
+  right: 0;
+  top: -6em;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+  
+  /*this option by default dispose the elements in a row (flex-direction: row)*/
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+
+  /*when I specify 2 values to margin, the first one is for the top and bottom side, the second for the left and right side*/
+  margin: 0 2vw;
+
+  /* our font-size will be 3% of the height of the viewport */
+  font-size: 3vh;
+}
+
+/* no margin and a little bit of padding around the body of the page */
+body{
+  margin: 0;
+  padding: 5px;
+}
+
+/* we want to put the logo in the top left corner */
+.logo {
+  position: relative;
+  display: flex;
+  font-size: 2em;
+  top: -1em;
+}
