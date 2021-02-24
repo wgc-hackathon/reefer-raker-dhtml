@@ -38,11 +38,11 @@ nav a:hover{
 nav{
   /* set the width to 100% of the viewport width */
   width: 100vw;
+}
 
-  /* move the navigation to the top right */
-  position: relative;
-  right: 0;
-  top: -6em;
+ul {
+  display: flex;
+  flex-direction: row;
 }
 
 ul{
@@ -52,7 +52,6 @@ ul{
   /*this option by default dispose the elements in a row (flex-direction: row)*/
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
 
   /*when I specify 2 values to margin, the first one is for the top and bottom side, the second for the left and right side*/
   margin: 0 2vw;
@@ -67,10 +66,6 @@ body{
   padding: 5px;
 }
 
-/* we want to put the logo in the top left corner */
-.logo {
-  position: relative;
-  display: flex;
-  font-size: 2em;
-  top: -1em;
+.logo{
+  font-size: 3vh;
 }
