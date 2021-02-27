@@ -1,5 +1,5 @@
 ![reefer-raker](https://user-images.githubusercontent.com/519327/109385373-39f5f480-78eb-11eb-9bb6-022c62e01fac.png)
-# reefer-raker
+# Reefer Raker
 An application to track moving boxes into the reefers
 
 During the pandemic the campus has had to deal with more samples than ever before. We are now processing 10000 samples a day.
