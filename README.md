@@ -1,3 +1,4 @@
+![reefer-raker](https://user-images.githubusercontent.com/519327/109385373-39f5f480-78eb-11eb-9bb6-022c62e01fac.png)
 # reefer-raker
 An application to track moving boxes into the reefers
 
