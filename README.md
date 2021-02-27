@@ -8,7 +8,7 @@ The problem is where to store them and how to keep track of them? We don’t hav
 
 Currently this is done with existing software, spreadsheets and manual checking. It is time consuming and easy to make mistakes especially when our staff are working in cold conditions.
 
-All of the samples are stored in plates with a unique barcode. We need to build them an application that allows them to scan those barcodes and store the location. They also need to be able to double check that they are putting them in the right place. 
+All of the samples are stored in plates with a unique barcode. We have 80 plates in a box and that box also has a barcode. We need to build them an application that allows them to scan those barcodes and store the location. They also need to be able to double check that they are putting them in the right place. 
 
 This would make the jobs of the reefer teams much easier as well as allowing us to find out where they are. Imagine trying to find a sample amongst thousands of other samples by hand. It would be like trying to find a needle in a haystack!
 
