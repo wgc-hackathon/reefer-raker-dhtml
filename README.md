@@ -2,7 +2,7 @@
 # Reefer Raker
 An application to track moving boxes into the reefers
 
-During the pandemic the campus has had to deal with more samples than ever before. We are now processing 10000 samples a day.
+During the pandemic the campus has had to deal with more samples than ever before. We are now processing 20000 samples a week.
 
 The problem is where to store them and how to keep track of them? We don’t have enough freezer space in our buildings so we now have 5 large -20C refrigerated units called reefers which are in the campus car park. Once the samples have been sequenced they need to be moved but we also need to make sure we can find out where they are.
 
