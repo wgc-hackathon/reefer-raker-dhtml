@@ -12,3 +12,10 @@ All of the samples are stored in plates with a unique barcode. We have 80 plates
 
 This would make the jobs of the reefer teams much easier as well as allowing us to find out where they are. Imagine trying to find a sample amongst thousands of other samples by hand. It would be like trying to find a needle in a haystack!
 
+# Building and running reefer raker locally
+
+Building and running Reefer Raker in your local dev environment is very easy. Be sure you have [Git](https://git-scm.com/downloads) and then follow the directions below:
+
+1. Clone the source code
+
+git clone https://github.com/wgc-hackathon/reefer-raker-vue.git
