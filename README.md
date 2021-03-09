@@ -24,6 +24,6 @@ git clone https://github.com/wgc-hackathon/reefer-raker-vue.git
 
 ## If you don't have access to the command line?
 
-1. 
+1. Click on the green 'code' button and select 'download.zip'
 
 
