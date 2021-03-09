@@ -26,4 +26,10 @@ git clone https://github.com/wgc-hackathon/reefer-raker-vue.git
 
 1. Click on the green 'code' button and select 'download.zip'
 
+2. Download the zip to your PC, unzip it and save the files somewhere.
+
+3. Navigate to the folder where you saved it to and double click on the index.html file.
+
+
+
 
