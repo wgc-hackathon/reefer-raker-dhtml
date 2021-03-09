@@ -30,6 +30,11 @@ git clone https://github.com/wgc-hackathon/reefer-raker-vue.git
 
 3. Navigate to the folder where you saved it to and double click on the index.html file.
 
+# To start coding
+
+1. You will need either a text editor e.g. Notepad or Notepad++ or an IDE e.g. [VSCode](https://code.visualstudio.com/). These are all free!
+
+2. Navigate to the issues page.
 
 
 
