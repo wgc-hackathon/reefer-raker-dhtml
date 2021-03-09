@@ -14,8 +14,12 @@ This would make the jobs of the reefer teams much easier as well as allowing us 
 
 # Building and running reefer raker locally
 
-Building and running Reefer Raker in your local dev environment is very easy. Be sure you have [Git](https://git-scm.com/downloads) and then follow the directions below:
+Building and running Reefer Raker in your local environment is very easy. Be sure you have [Git](https://git-scm.com/downloads) and then follow the directions below:
 
 1. Clone the source code
 
 git clone https://github.com/wgc-hackathon/reefer-raker-vue.git
+
+2. Navigate to the folder where you cloned it to and double click on the index.html file
+
+
