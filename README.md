@@ -32,9 +32,13 @@ git clone https://github.com/wgc-hackathon/reefer-raker-vue.git
 
 # To start coding
 
-1. You will need either a text editor e.g. Notepad or Notepad++ or an IDE e.g. [VSCode](https://code.visualstudio.com/). These are all free!
+1. You will need either a text editor e.g. Notepad or Notepad++ or an Integrated Development Environment (IDE) e.g. [VSCode](https://code.visualstudio.com/). These are all free!
 
-2. Navigate to the issues page.
+2. Navigate to the issues page https://github.com/wgc-hackathon/reefer-raker-dhtml/issues
+
+3. Start coding! Each of the issues will tell you what you need to do with a list of steps that it is best to follow in order. There are also some tips and hints to get started.
+
+
 
 
 
