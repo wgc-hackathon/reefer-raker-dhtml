@@ -38,6 +38,23 @@ git clone https://github.com/wgc-hackathon/reefer-raker-vue.git
 
 3. Start coding! Each of the issues will tell you what you need to do with a list of steps that it is best to follow in order. There are also some tips and hints to get started.
 
+4. To get the best out of this exercise you should try it in order. Start with page 1, then page 2 and so on. Also within each page try the tasks in order. You will find that each task follows on from the previous one and they get progressively more difficult.
+
+# What do I need to know?
+
+Ideally to work on this project you would need to know a bit of HTML, CSS and JavaScript.You don't have to be an expert.
+
+# What if I don't know HTML, CSS and JavaScript but I still want to give it a go?
+
+Go for it! Don't be afraid. There are plenty of websites with tutorials for free to get you started. A few of note:
+
+1. [W3 Schools](https://www.w3schools.com/html/default.asp) - This is a great site for beginners. Also a good place to find references
+2. [Mozilla Developers](https://developer.mozilla.org/en-US/) - Lots of information. Can take you from beginner through to advanced. A wealth of information
+3. [Learn HTML](https://www.learn-html.org/) - Some great interactive exercises for beginners
+4. [HTML for Beginners](https://html.com/) - A great introduction with some history
+5. [CSS Tricks](https://css-tricks.com/) - Lots of great tips, tricks and articles on CSS
+6. 
+
 
 
 
