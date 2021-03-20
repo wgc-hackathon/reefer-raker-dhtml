@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Page 1</title>
   <link rel="stylesheet" href="styles-example.css">
-  <script src="scripts.js"></script>
+  <script src="scripts-example.js"></script>
 </head>
 <body>
   <header>
@@ -30,79 +30,49 @@
         Can be moved?
       </th>
     </tr>
-    <tr>
-      <td>
-        1
-      </td>
-      <td>
-        Box 1
-      </td>
-      <td>
-        loc-box-1-1
-      </td>
+    <tr data-type="box">
+      <td data-type="id">1</td>
+      <td data-type="name">Box 1</td>
+      <td data-type="barcode">loc-box-1-1</td>
       <td>
         <input type="checkbox" />
       </td>
     </tr>
-    <tr>
-      <td>
-        2
-      </td>
-      <td>
-        Box 2
-      </td>
-      <td>
-        loc-box-2-2
-      </td>
+    <tr data-type="box">
+      <td data-type="id">2</td>
+      <td data-type="name">Box 2</td>
+      <td data-type="barcode">loc-box-2-2</td>
       <td>
         <input type="checkbox" />
       </td>
     </tr>
-    <tr>
-      <td>
-        3
-      </td>
-      <td>
-        Box 3
-      </td>
-      <td>
-        loc-box-3-3
-      </td>
+    <tr data-type="box">
+      <td data-type="id">3</td>
+      <td data-type="name">Box 3</td>
+      <td data-type="barcode">loc-box-3-3</td>
       <td>
         <input type="checkbox" />
       </td>
     </tr>
-    <tr>
-      <td>
-        4
-      </td>
-      <td>
-        Box 4
-      </td>
-      <td>
-        loc-box-4-4
-      </td>
+    <tr data-type="box">
+      <td data-type="id">4</td>
+      <td data-type="name">Box 4</td>
+      <td data-type="barcode">loc-box-4-4</td>
       <td>
         <input type="checkbox" />
       </td>
     </tr>
-    <tr>
-      <td>
-        5
-      </td>
-      <td>
-        Box 5
-      </td>
-      <td>
-        loc-box-5-5
-      </td>
+    <tr data-type="box">
+      <td data-type="id">5</td>
+      <td data-type="name">Box 5</td>
+      <td data-type="barcode">loc-box-5-5</td>
       <td>
         <input type="checkbox" />
       </td>
     </tr>
   </table>
   <div>
-    <button type="button" class="button" onclick="alert('Choices successfully submitted');">Submit choices</button> 
+    <button type="button" class="button" onclick="submitChoices();">Submit choices</button> 
   </div>
 </body>
 </html>
