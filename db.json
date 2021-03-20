@@ -1,1 +1,831 @@
-{"reefers":[{"id":1,"type":"reefer","name":"Reefer 1","barcode":"loc-reefer-1-1","racks":[{"id":2,"type":"rack","name":"Rack 1","barcode":"loc-rack-1-2","shelves":[{"id":3,"type":"shelf","name":"Shelf 1","barcode":"loc-shelf-1-3","boxes":[{"id":4,"type":"box","name":"Box 1","barcode":"loc-box-1-4"},{"id":5,"type":"box","name":"Box 2","barcode":"loc-box-2-5"},{"id":6,"type":"box","name":"Box 3","barcode":"loc-box-3-6"},{"id":7,"type":"box","name":"Box 4","barcode":"loc-box-4-7"},{"id":8,"type":"box","name":"Box 5","barcode":"loc-box-5-8"},{"id":9,"type":"box","name":"Box 6","barcode":"loc-box-6-9"}]},{"id":10,"type":"shelf","name":"Shelf 2","barcode":"loc-shelf-2-10","boxes":[{"id":11,"type":"box","name":"Box 7","barcode":"loc-box-7-11"},{"id":12,"type":"box","name":"Box 8","barcode":"loc-box-8-12"},{"id":13,"type":"box","name":"Box 9","barcode":"loc-box-9-13"},{"id":14,"type":"box","name":"Box 10","barcode":"loc-box-10-14"},{"id":15,"type":"box","name":"Box 11","barcode":"loc-box-11-15"},{"id":16,"type":"box","name":"Box 12","barcode":"loc-box-12-16"}]},{"id":17,"type":"shelf","name":"Shelf 3","barcode":"loc-shelf-3-17","boxes":[{"id":18,"type":"box","name":"Box 13","barcode":"loc-box-13-18"},{"id":19,"type":"box","name":"Box 14","barcode":"loc-box-14-19"},{"id":20,"type":"box","name":"Box 15","barcode":"loc-box-15-20"},{"id":21,"type":"box","name":"Box 16","barcode":"loc-box-16-21"},{"id":22,"type":"box","name":"Box 17","barcode":"loc-box-17-22"},{"id":23,"type":"box","name":"Box 18","barcode":"loc-box-18-23"}]}]},{"id":24,"type":"rack","name":"Rack 2","barcode":"loc-rack-2-24","shelves":[{"id":25,"type":"shelf","name":"Shelf 1","barcode":"loc-shelf-1-25","boxes":[{"id":26,"type":"box","name":"Box 19","barcode":"loc-box-19-26"},{"id":27,"type":"box","name":"Box 20","barcode":"loc-box-20-27"},{"id":28,"type":"box","name":"Box 21","barcode":"loc-box-21-28"},{"id":29,"type":"box","name":"Box 22","barcode":"loc-box-22-29"},{"id":30,"type":"box","name":"Box 23","barcode":"loc-box-23-30"},{"id":31,"type":"box","name":"Box 24","barcode":"loc-box-24-31"}]},{"id":32,"type":"shelf","name":"Shelf 2","barcode":"loc-shelf-2-32","boxes":[{"id":33,"type":"box","name":"Box 25","barcode":"loc-box-25-33"},{"id":34,"type":"box","name":"Box 26","barcode":"loc-box-26-34"},{"id":35,"type":"box","name":"Box 27","barcode":"loc-box-27-35"},{"id":36,"type":"box","name":"Box 28","barcode":"loc-box-28-36"},{"id":37,"type":"box","name":"Box 29","barcode":"loc-box-29-37"},{"id":38,"type":"box","name":"Box 30","barcode":"loc-box-30-38"}]},{"id":39,"type":"shelf","name":"Shelf 3","barcode":"loc-shelf-3-39","boxes":[{"id":40,"type":"box","name":"Box 31","barcode":"loc-box-31-40"},{"id":41,"type":"box","name":"Box 32","barcode":"loc-box-32-41"},{"id":42,"type":"box","name":"Box 33","barcode":"loc-box-33-42"},{"id":43,"type":"box","name":"Box 34","barcode":"loc-box-34-43"},{"id":44,"type":"box","name":"Box 35","barcode":"loc-box-35-44"},{"id":45,"type":"box","name":"Box 36","barcode":"loc-box-36-45"}]}]},{"id":46,"type":"rack","name":"Rack 3","barcode":"loc-rack-3-46","shelves":[{"id":47,"type":"shelf","name":"Shelf 1","barcode":"loc-shelf-1-47","boxes":[{"id":48,"type":"box","name":"Box 37","barcode":"loc-box-37-48"},{"id":49,"type":"box","name":"Box 38","barcode":"loc-box-38-49"},{"id":50,"type":"box","name":"Box 39","barcode":"loc-box-39-50"},{"id":51,"type":"box","name":"Box 40","barcode":"loc-box-40-51"},{"id":52,"type":"box","name":"Box 41","barcode":"loc-box-41-52"},{"id":53,"type":"box","name":"Box 42","barcode":"loc-box-42-53"}]},{"id":54,"type":"shelf","name":"Shelf 2","barcode":"loc-shelf-2-54","boxes":[{"id":55,"type":"box","name":"Box 43","barcode":"loc-box-43-55"},{"id":56,"type":"box","name":"Box 44","barcode":"loc-box-44-56"},{"id":57,"type":"box","name":"Box 45","barcode":"loc-box-45-57"},{"id":58,"type":"box","name":"Box 46","barcode":"loc-box-46-58"},{"id":59,"type":"box","name":"Box 47","barcode":"loc-box-47-59"},{"id":60,"type":"box","name":"Box 48","barcode":"loc-box-48-60"}]},{"id":61,"type":"shelf","name":"Shelf 3","barcode":"loc-shelf-3-61","boxes":[{"id":62,"type":"box","name":"Box 49","barcode":"loc-box-49-62"},{"id":63,"type":"box","name":"Box 50","barcode":"loc-box-50-63"},{"id":64,"type":"box","name":"Box 51","barcode":"loc-box-51-64"},{"id":65,"type":"box","name":"Box 52","barcode":"loc-box-52-65"},{"id":66,"type":"box","name":"Box 53","barcode":"loc-box-53-66"},{"id":67,"type":"box","name":"Box 54","barcode":"loc-box-54-67"}]}]},{"id":68,"type":"rack","name":"Rack 4","barcode":"loc-rack-4-68","shelves":[{"id":69,"type":"shelf","name":"Shelf 1","barcode":"loc-shelf-1-69","boxes":[{"id":70,"type":"box","name":"Box 55","barcode":"loc-box-55-70"},{"id":71,"type":"box","name":"Box 56","barcode":"loc-box-56-71"},{"id":72,"type":"box","name":"Box 57","barcode":"loc-box-57-72"},{"id":73,"type":"box","name":"Box 58","barcode":"loc-box-58-73"},{"id":74,"type":"box","name":"Box 59","barcode":"loc-box-59-74"},{"id":75,"type":"box","name":"Box 60","barcode":"loc-box-60-75"}]},{"id":76,"type":"shelf","name":"Shelf 2","barcode":"loc-shelf-2-76","boxes":[{"id":77,"type":"box","name":"Box 61","barcode":"loc-box-61-77"},{"id":78,"type":"box","name":"Box 62","barcode":"loc-box-62-78"},{"id":79,"type":"box","name":"Box 63","barcode":"loc-box-63-79"},{"id":80,"type":"box","name":"Box 64","barcode":"loc-box-64-80"},{"id":81,"type":"box","name":"Box 65","barcode":"loc-box-65-81"},{"id":82,"type":"box","name":"Box 66","barcode":"loc-box-66-82"}]},{"id":83,"type":"shelf","name":"Shelf 3","barcode":"loc-shelf-3-83","boxes":[{"id":84,"type":"box","name":"Box 67","barcode":"loc-box-67-84"},{"id":85,"type":"box","name":"Box 68","barcode":"loc-box-68-85"},{"id":86,"type":"box","name":"Box 69","barcode":"loc-box-69-86"},{"id":87,"type":"box","name":"Box 70","barcode":"loc-box-70-87"},{"id":88,"type":"box","name":"Box 71","barcode":"loc-box-71-88"},{"id":89,"type":"box","name":"Box 72","barcode":"loc-box-72-89"}]}]},{"id":90,"type":"rack","name":"Rack 5","barcode":"loc-rack-5-90","shelves":[{"id":91,"type":"shelf","name":"Shelf 1","barcode":"loc-shelf-1-91","boxes":[{"id":92,"type":"box","name":"Box 73","barcode":"loc-box-73-92"},{"id":93,"type":"box","name":"Box 74","barcode":"loc-box-74-93"},{"id":94,"type":"box","name":"Box 75","barcode":"loc-box-75-94"}]},{"id":95,"type":"shelf","name":"Shelf 2","barcode":"loc-shelf-2-95","boxes":[]},{"id":96,"type":"shelf","name":"Shelf 3","barcode":"loc-shelf-3-96","boxes":[]}]},{"id":97,"type":"rack","name":"Rack 6","barcode":"loc-rack-6-97","shelves":[{"id":98,"type":"shelf","name":"Shelf 1","barcode":"loc-shelf-1-98","boxes":[]},{"id":99,"type":"shelf","name":"Shelf 2","barcode":"loc-shelf-2-99","boxes":[]},{"id":100,"type":"shelf","name":"Shelf 3","barcode":"loc-shelf-3-100","boxes":[]}]}]}],"boxes":[{"id":101,"type":"box","name":"Box 76","barcode":"loc-box-76-101"},{"id":102,"type":"box","name":"Box 77","barcode":"loc-box-77-102"},{"id":103,"type":"box","name":"Box 78","barcode":"loc-box-78-103"},{"id":104,"type":"box","name":"Box 79","barcode":"loc-box-79-104"},{"id":105,"type":"box","name":"Box 80","barcode":"loc-box-80-105"},{"id":106,"type":"box","name":"Box 81","barcode":"loc-box-81-106"},{"id":107,"type":"box","name":"Box 82","barcode":"loc-box-82-107"},{"id":108,"type":"box","name":"Box 83","barcode":"loc-box-83-108"},{"id":109,"type":"box","name":"Box 84","barcode":"loc-box-84-109"},{"id":110,"type":"box","name":"Box 85","barcode":"loc-box-85-110"},{"id":111,"type":"box","name":"Box 86","barcode":"loc-box-86-111"},{"id":112,"type":"box","name":"Box 87","barcode":"loc-box-87-112"},{"id":113,"type":"box","name":"Box 88","barcode":"loc-box-88-113"},{"id":114,"type":"box","name":"Box 89","barcode":"loc-box-89-114"},{"id":115,"type":"box","name":"Box 90","barcode":"loc-box-90-115"},{"id":116,"type":"box","name":"Box 91","barcode":"loc-box-91-116"},{"id":117,"type":"box","name":"Box 92","barcode":"loc-box-92-117"},{"id":118,"type":"box","name":"Box 93","barcode":"loc-box-93-118"},{"id":119,"type":"box","name":"Box 94","barcode":"loc-box-94-119"},{"id":120,"type":"box","name":"Box 95","barcode":"loc-box-95-120"},{"id":121,"type":"box","name":"Box 96","barcode":"loc-box-96-121"},{"id":122,"type":"box","name":"Box 97","barcode":"loc-box-97-122"},{"id":123,"type":"box","name":"Box 98","barcode":"loc-box-98-123"},{"id":124,"type":"box","name":"Box 99","barcode":"loc-box-99-124"},{"id":125,"type":"box","name":"Box 100","barcode":"loc-box-100-125"},{"id":126,"type":"box","name":"Box 101","barcode":"loc-box-101-126"},{"id":127,"type":"box","name":"Box 102","barcode":"loc-box-102-127"},{"id":128,"type":"box","name":"Box 103","barcode":"loc-box-103-128"},{"id":129,"type":"box","name":"Box 104","barcode":"loc-box-104-129"},{"id":130,"type":"box","name":"Box 105","barcode":"loc-box-105-130"}]}
+{
+    "reefers": [
+        {
+            "id": 1,
+            "type": "reefer",
+            "name": "Reefer 1",
+            "barcode": "loc-reefer-1-1",
+            "racks": [
+                {
+                    "id": 2,
+                    "type": "rack",
+                    "name": "Rack 1",
+                    "barcode": "loc-rack-1-2",
+                    "shelves": [
+                        {
+                            "id": 3,
+                            "type": "shelf",
+                            "name": "Shelf 1",
+                            "barcode": "loc-shelf-1-3",
+                            "boxes": [
+                                {
+                                    "id": 4,
+                                    "type": "box",
+                                    "name": "Box 1",
+                                    "barcode": "loc-box-1-4"
+                                },
+                                {
+                                    "id": 5,
+                                    "type": "box",
+                                    "name": "Box 2",
+                                    "barcode": "loc-box-2-5"
+                                },
+                                {
+                                    "id": 6,
+                                    "type": "box",
+                                    "name": "Box 3",
+                                    "barcode": "loc-box-3-6"
+                                },
+                                {
+                                    "id": 7,
+                                    "type": "box",
+                                    "name": "Box 4",
+                                    "barcode": "loc-box-4-7"
+                                },
+                                {
+                                    "id": 8,
+                                    "type": "box",
+                                    "name": "Box 5",
+                                    "barcode": "loc-box-5-8"
+                                },
+                                {
+                                    "id": 9,
+                                    "type": "box",
+                                    "name": "Box 6",
+                                    "barcode": "loc-box-6-9"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "type": "shelf",
+                            "name": "Shelf 2",
+                            "barcode": "loc-shelf-2-10",
+                            "boxes": [
+                                {
+                                    "id": 11,
+                                    "type": "box",
+                                    "name": "Box 7",
+                                    "barcode": "loc-box-7-11"
+                                },
+                                {
+                                    "id": 12,
+                                    "type": "box",
+                                    "name": "Box 8",
+                                    "barcode": "loc-box-8-12"
+                                },
+                                {
+                                    "id": 13,
+                                    "type": "box",
+                                    "name": "Box 9",
+                                    "barcode": "loc-box-9-13"
+                                },
+                                {
+                                    "id": 14,
+                                    "type": "box",
+                                    "name": "Box 10",
+                                    "barcode": "loc-box-10-14"
+                                },
+                                {
+                                    "id": 15,
+                                    "type": "box",
+                                    "name": "Box 11",
+                                    "barcode": "loc-box-11-15"
+                                },
+                                {
+                                    "id": 16,
+                                    "type": "box",
+                                    "name": "Box 12",
+                                    "barcode": "loc-box-12-16"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 17,
+                            "type": "shelf",
+                            "name": "Shelf 3",
+                            "barcode": "loc-shelf-3-17",
+                            "boxes": [
+                                {
+                                    "id": 18,
+                                    "type": "box",
+                                    "name": "Box 13",
+                                    "barcode": "loc-box-13-18"
+                                },
+                                {
+                                    "id": 19,
+                                    "type": "box",
+                                    "name": "Box 14",
+                                    "barcode": "loc-box-14-19"
+                                },
+                                {
+                                    "id": 20,
+                                    "type": "box",
+                                    "name": "Box 15",
+                                    "barcode": "loc-box-15-20"
+                                },
+                                {
+                                    "id": 21,
+                                    "type": "box",
+                                    "name": "Box 16",
+                                    "barcode": "loc-box-16-21"
+                                },
+                                {
+                                    "id": 22,
+                                    "type": "box",
+                                    "name": "Box 17",
+                                    "barcode": "loc-box-17-22"
+                                },
+                                {
+                                    "id": 23,
+                                    "type": "box",
+                                    "name": "Box 18",
+                                    "barcode": "loc-box-18-23"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "type": "rack",
+                    "name": "Rack 2",
+                    "barcode": "loc-rack-2-24",
+                    "shelves": [
+                        {
+                            "id": 25,
+                            "type": "shelf",
+                            "name": "Shelf 1",
+                            "barcode": "loc-shelf-1-25",
+                            "boxes": [
+                                {
+                                    "id": 26,
+                                    "type": "box",
+                                    "name": "Box 19",
+                                    "barcode": "loc-box-19-26"
+                                },
+                                {
+                                    "id": 27,
+                                    "type": "box",
+                                    "name": "Box 20",
+                                    "barcode": "loc-box-20-27"
+                                },
+                                {
+                                    "id": 28,
+                                    "type": "box",
+                                    "name": "Box 21",
+                                    "barcode": "loc-box-21-28"
+                                },
+                                {
+                                    "id": 29,
+                                    "type": "box",
+                                    "name": "Box 22",
+                                    "barcode": "loc-box-22-29"
+                                },
+                                {
+                                    "id": 30,
+                                    "type": "box",
+                                    "name": "Box 23",
+                                    "barcode": "loc-box-23-30"
+                                },
+                                {
+                                    "id": 31,
+                                    "type": "box",
+                                    "name": "Box 24",
+                                    "barcode": "loc-box-24-31"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 32,
+                            "type": "shelf",
+                            "name": "Shelf 2",
+                            "barcode": "loc-shelf-2-32",
+                            "boxes": [
+                                {
+                                    "id": 33,
+                                    "type": "box",
+                                    "name": "Box 25",
+                                    "barcode": "loc-box-25-33"
+                                },
+                                {
+                                    "id": 34,
+                                    "type": "box",
+                                    "name": "Box 26",
+                                    "barcode": "loc-box-26-34"
+                                },
+                                {
+                                    "id": 35,
+                                    "type": "box",
+                                    "name": "Box 27",
+                                    "barcode": "loc-box-27-35"
+                                },
+                                {
+                                    "id": 36,
+                                    "type": "box",
+                                    "name": "Box 28",
+                                    "barcode": "loc-box-28-36"
+                                },
+                                {
+                                    "id": 37,
+                                    "type": "box",
+                                    "name": "Box 29",
+                                    "barcode": "loc-box-29-37"
+                                },
+                                {
+                                    "id": 38,
+                                    "type": "box",
+                                    "name": "Box 30",
+                                    "barcode": "loc-box-30-38"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 39,
+                            "type": "shelf",
+                            "name": "Shelf 3",
+                            "barcode": "loc-shelf-3-39",
+                            "boxes": [
+                                {
+                                    "id": 40,
+                                    "type": "box",
+                                    "name": "Box 31",
+                                    "barcode": "loc-box-31-40"
+                                },
+                                {
+                                    "id": 41,
+                                    "type": "box",
+                                    "name": "Box 32",
+                                    "barcode": "loc-box-32-41"
+                                },
+                                {
+                                    "id": 42,
+                                    "type": "box",
+                                    "name": "Box 33",
+                                    "barcode": "loc-box-33-42"
+                                },
+                                {
+                                    "id": 43,
+                                    "type": "box",
+                                    "name": "Box 34",
+                                    "barcode": "loc-box-34-43"
+                                },
+                                {
+                                    "id": 44,
+                                    "type": "box",
+                                    "name": "Box 35",
+                                    "barcode": "loc-box-35-44"
+                                },
+                                {
+                                    "id": 45,
+                                    "type": "box",
+                                    "name": "Box 36",
+                                    "barcode": "loc-box-36-45"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 46,
+                    "type": "rack",
+                    "name": "Rack 3",
+                    "barcode": "loc-rack-3-46",
+                    "shelves": [
+                        {
+                            "id": 47,
+                            "type": "shelf",
+                            "name": "Shelf 1",
+                            "barcode": "loc-shelf-1-47",
+                            "boxes": [
+                                {
+                                    "id": 48,
+                                    "type": "box",
+                                    "name": "Box 37",
+                                    "barcode": "loc-box-37-48"
+                                },
+                                {
+                                    "id": 49,
+                                    "type": "box",
+                                    "name": "Box 38",
+                                    "barcode": "loc-box-38-49"
+                                },
+                                {
+                                    "id": 50,
+                                    "type": "box",
+                                    "name": "Box 39",
+                                    "barcode": "loc-box-39-50"
+                                },
+                                {
+                                    "id": 51,
+                                    "type": "box",
+                                    "name": "Box 40",
+                                    "barcode": "loc-box-40-51"
+                                },
+                                {
+                                    "id": 52,
+                                    "type": "box",
+                                    "name": "Box 41",
+                                    "barcode": "loc-box-41-52"
+                                },
+                                {
+                                    "id": 53,
+                                    "type": "box",
+                                    "name": "Box 42",
+                                    "barcode": "loc-box-42-53"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 54,
+                            "type": "shelf",
+                            "name": "Shelf 2",
+                            "barcode": "loc-shelf-2-54",
+                            "boxes": [
+                                {
+                                    "id": 55,
+                                    "type": "box",
+                                    "name": "Box 43",
+                                    "barcode": "loc-box-43-55"
+                                },
+                                {
+                                    "id": 56,
+                                    "type": "box",
+                                    "name": "Box 44",
+                                    "barcode": "loc-box-44-56"
+                                },
+                                {
+                                    "id": 57,
+                                    "type": "box",
+                                    "name": "Box 45",
+                                    "barcode": "loc-box-45-57"
+                                },
+                                {
+                                    "id": 58,
+                                    "type": "box",
+                                    "name": "Box 46",
+                                    "barcode": "loc-box-46-58"
+                                },
+                                {
+                                    "id": 59,
+                                    "type": "box",
+                                    "name": "Box 47",
+                                    "barcode": "loc-box-47-59"
+                                },
+                                {
+                                    "id": 60,
+                                    "type": "box",
+                                    "name": "Box 48",
+                                    "barcode": "loc-box-48-60"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 61,
+                            "type": "shelf",
+                            "name": "Shelf 3",
+                            "barcode": "loc-shelf-3-61",
+                            "boxes": [
+                                {
+                                    "id": 62,
+                                    "type": "box",
+                                    "name": "Box 49",
+                                    "barcode": "loc-box-49-62"
+                                },
+                                {
+                                    "id": 63,
+                                    "type": "box",
+                                    "name": "Box 50",
+                                    "barcode": "loc-box-50-63"
+                                },
+                                {
+                                    "id": 64,
+                                    "type": "box",
+                                    "name": "Box 51",
+                                    "barcode": "loc-box-51-64"
+                                },
+                                {
+                                    "id": 65,
+                                    "type": "box",
+                                    "name": "Box 52",
+                                    "barcode": "loc-box-52-65"
+                                },
+                                {
+                                    "id": 66,
+                                    "type": "box",
+                                    "name": "Box 53",
+                                    "barcode": "loc-box-53-66"
+                                },
+                                {
+                                    "id": 67,
+                                    "type": "box",
+                                    "name": "Box 54",
+                                    "barcode": "loc-box-54-67"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 68,
+                    "type": "rack",
+                    "name": "Rack 4",
+                    "barcode": "loc-rack-4-68",
+                    "shelves": [
+                        {
+                            "id": 69,
+                            "type": "shelf",
+                            "name": "Shelf 1",
+                            "barcode": "loc-shelf-1-69",
+                            "boxes": [
+                                {
+                                    "id": 70,
+                                    "type": "box",
+                                    "name": "Box 55",
+                                    "barcode": "loc-box-55-70"
+                                },
+                                {
+                                    "id": 71,
+                                    "type": "box",
+                                    "name": "Box 56",
+                                    "barcode": "loc-box-56-71"
+                                },
+                                {
+                                    "id": 72,
+                                    "type": "box",
+                                    "name": "Box 57",
+                                    "barcode": "loc-box-57-72"
+                                },
+                                {
+                                    "id": 73,
+                                    "type": "box",
+                                    "name": "Box 58",
+                                    "barcode": "loc-box-58-73"
+                                },
+                                {
+                                    "id": 74,
+                                    "type": "box",
+                                    "name": "Box 59",
+                                    "barcode": "loc-box-59-74"
+                                },
+                                {
+                                    "id": 75,
+                                    "type": "box",
+                                    "name": "Box 60",
+                                    "barcode": "loc-box-60-75"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 76,
+                            "type": "shelf",
+                            "name": "Shelf 2",
+                            "barcode": "loc-shelf-2-76",
+                            "boxes": [
+                                {
+                                    "id": 77,
+                                    "type": "box",
+                                    "name": "Box 61",
+                                    "barcode": "loc-box-61-77"
+                                },
+                                {
+                                    "id": 78,
+                                    "type": "box",
+                                    "name": "Box 62",
+                                    "barcode": "loc-box-62-78"
+                                },
+                                {
+                                    "id": 79,
+                                    "type": "box",
+                                    "name": "Box 63",
+                                    "barcode": "loc-box-63-79"
+                                },
+                                {
+                                    "id": 80,
+                                    "type": "box",
+                                    "name": "Box 64",
+                                    "barcode": "loc-box-64-80"
+                                },
+                                {
+                                    "id": 81,
+                                    "type": "box",
+                                    "name": "Box 65",
+                                    "barcode": "loc-box-65-81"
+                                },
+                                {
+                                    "id": 82,
+                                    "type": "box",
+                                    "name": "Box 66",
+                                    "barcode": "loc-box-66-82"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 83,
+                            "type": "shelf",
+                            "name": "Shelf 3",
+                            "barcode": "loc-shelf-3-83",
+                            "boxes": [
+                                {
+                                    "id": 84,
+                                    "type": "box",
+                                    "name": "Box 67",
+                                    "barcode": "loc-box-67-84"
+                                },
+                                {
+                                    "id": 85,
+                                    "type": "box",
+                                    "name": "Box 68",
+                                    "barcode": "loc-box-68-85"
+                                },
+                                {
+                                    "id": 86,
+                                    "type": "box",
+                                    "name": "Box 69",
+                                    "barcode": "loc-box-69-86"
+                                },
+                                {
+                                    "id": 87,
+                                    "type": "box",
+                                    "name": "Box 70",
+                                    "barcode": "loc-box-70-87"
+                                },
+                                {
+                                    "id": 88,
+                                    "type": "box",
+                                    "name": "Box 71",
+                                    "barcode": "loc-box-71-88"
+                                },
+                                {
+                                    "id": 89,
+                                    "type": "box",
+                                    "name": "Box 72",
+                                    "barcode": "loc-box-72-89"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 90,
+                    "type": "rack",
+                    "name": "Rack 5",
+                    "barcode": "loc-rack-5-90",
+                    "shelves": [
+                        {
+                            "id": 91,
+                            "type": "shelf",
+                            "name": "Shelf 1",
+                            "barcode": "loc-shelf-1-91",
+                            "boxes": [
+                                {
+                                    "id": 92,
+                                    "type": "box",
+                                    "name": "Box 73",
+                                    "barcode": "loc-box-73-92"
+                                },
+                                {
+                                    "id": 93,
+                                    "type": "box",
+                                    "name": "Box 74",
+                                    "barcode": "loc-box-74-93"
+                                },
+                                {
+                                    "id": 94,
+                                    "type": "box",
+                                    "name": "Box 75",
+                                    "barcode": "loc-box-75-94"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 95,
+                            "type": "shelf",
+                            "name": "Shelf 2",
+                            "barcode": "loc-shelf-2-95",
+                            "boxes": []
+                        },
+                        {
+                            "id": 96,
+                            "type": "shelf",
+                            "name": "Shelf 3",
+                            "barcode": "loc-shelf-3-96",
+                            "boxes": []
+                        }
+                    ]
+                },
+                {
+                    "id": 97,
+                    "type": "rack",
+                    "name": "Rack 6",
+                    "barcode": "loc-rack-6-97",
+                    "shelves": [
+                        {
+                            "id": 98,
+                            "type": "shelf",
+                            "name": "Shelf 1",
+                            "barcode": "loc-shelf-1-98",
+                            "boxes": []
+                        },
+                        {
+                            "id": 99,
+                            "type": "shelf",
+                            "name": "Shelf 2",
+                            "barcode": "loc-shelf-2-99",
+                            "boxes": []
+                        },
+                        {
+                            "id": 100,
+                            "type": "shelf",
+                            "name": "Shelf 3",
+                            "barcode": "loc-shelf-3-100",
+                            "boxes": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "boxes": [
+        {
+            "id": 101,
+            "type": "box",
+            "name": "Box 76",
+            "barcode": "loc-box-76-101"
+        },
+        {
+            "id": 102,
+            "type": "box",
+            "name": "Box 77",
+            "barcode": "loc-box-77-102"
+        },
+        {
+            "id": 103,
+            "type": "box",
+            "name": "Box 78",
+            "barcode": "loc-box-78-103"
+        },
+        {
+            "id": 104,
+            "type": "box",
+            "name": "Box 79",
+            "barcode": "loc-box-79-104"
+        },
+        {
+            "id": 105,
+            "type": "box",
+            "name": "Box 80",
+            "barcode": "loc-box-80-105"
+        },
+        {
+            "id": 106,
+            "type": "box",
+            "name": "Box 81",
+            "barcode": "loc-box-81-106"
+        },
+        {
+            "id": 107,
+            "type": "box",
+            "name": "Box 82",
+            "barcode": "loc-box-82-107"
+        },
+        {
+            "id": 108,
+            "type": "box",
+            "name": "Box 83",
+            "barcode": "loc-box-83-108"
+        },
+        {
+            "id": 109,
+            "type": "box",
+            "name": "Box 84",
+            "barcode": "loc-box-84-109"
+        },
+        {
+            "id": 110,
+            "type": "box",
+            "name": "Box 85",
+            "barcode": "loc-box-85-110"
+        },
+        {
+            "id": 111,
+            "type": "box",
+            "name": "Box 86",
+            "barcode": "loc-box-86-111"
+        },
+        {
+            "id": 112,
+            "type": "box",
+            "name": "Box 87",
+            "barcode": "loc-box-87-112"
+        },
+        {
+            "id": 113,
+            "type": "box",
+            "name": "Box 88",
+            "barcode": "loc-box-88-113"
+        },
+        {
+            "id": 114,
+            "type": "box",
+            "name": "Box 89",
+            "barcode": "loc-box-89-114"
+        },
+        {
+            "id": 115,
+            "type": "box",
+            "name": "Box 90",
+            "barcode": "loc-box-90-115"
+        },
+        {
+            "id": 116,
+            "type": "box",
+            "name": "Box 91",
+            "barcode": "loc-box-91-116"
+        },
+        {
+            "id": 117,
+            "type": "box",
+            "name": "Box 92",
+            "barcode": "loc-box-92-117"
+        },
+        {
+            "id": 118,
+            "type": "box",
+            "name": "Box 93",
+            "barcode": "loc-box-93-118"
+        },
+        {
+            "id": 119,
+            "type": "box",
+            "name": "Box 94",
+            "barcode": "loc-box-94-119"
+        },
+        {
+            "id": 120,
+            "type": "box",
+            "name": "Box 95",
+            "barcode": "loc-box-95-120"
+        },
+        {
+            "id": 121,
+            "type": "box",
+            "name": "Box 96",
+            "barcode": "loc-box-96-121"
+        },
+        {
+            "id": 122,
+            "type": "box",
+            "name": "Box 97",
+            "barcode": "loc-box-97-122"
+        },
+        {
+            "id": 123,
+            "type": "box",
+            "name": "Box 98",
+            "barcode": "loc-box-98-123"
+        },
+        {
+            "id": 124,
+            "type": "box",
+            "name": "Box 99",
+            "barcode": "loc-box-99-124"
+        },
+        {
+            "id": 125,
+            "type": "box",
+            "name": "Box 100",
+            "barcode": "loc-box-100-125"
+        },
+        {
+            "id": 126,
+            "type": "box",
+            "name": "Box 101",
+            "barcode": "loc-box-101-126"
+        },
+        {
+            "id": 127,
+            "type": "box",
+            "name": "Box 102",
+            "barcode": "loc-box-102-127"
+        },
+        {
+            "id": 128,
+            "type": "box",
+            "name": "Box 103",
+            "barcode": "loc-box-103-128"
+        },
+        {
+            "id": 129,
+            "type": "box",
+            "name": "Box 104",
+            "barcode": "loc-box-104-129"
+        },
+        {
+            "id": 130,
+            "type": "box",
+            "name": "Box 105",
+            "barcode": "loc-box-105-130"
+        }
+    ]
+}
