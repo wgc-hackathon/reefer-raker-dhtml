@@ -53,7 +53,7 @@ Go for it! Don't be afraid. There are plenty of websites with tutorials for free
 3. [Learn HTML](https://www.learn-html.org/) - Some great interactive exercises for beginners
 4. [HTML for Beginners](https://html.com/) - A great introduction with some history
 5. [CSS Tricks](https://css-tricks.com/) - Lots of great tips, tricks and articles on CSS
-6. 
+6. [Free JavaScript resources] (https://www.java5cript.com/) - Links to some free JavaScript resources
 
 
 
