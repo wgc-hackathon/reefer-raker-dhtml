@@ -49,11 +49,19 @@ Ideally to work on this project you would need to know a bit of HTML, CSS and Ja
 Go for it! Don't be afraid. There are plenty of websites with tutorials for free to get you started. A few of note:
 
 1. [W3 Schools](https://www.w3schools.com/html/default.asp) - This is a great site for beginners. Also a good place to find references
-2. [Mozilla Developers](https://developer.mozilla.org/en-US/) - Lots of information. Can take you from beginner through to advanced. A wealth of information
+2. [Mozilla Developers](https://developer.mozilla.org/en-US/) - Can take you from beginner through to advanced. A wealth of information
 3. [Learn HTML](https://www.learn-html.org/) - Some great interactive exercises for beginners
 4. [HTML for Beginners](https://html.com/) - A great introduction with some history
 5. [CSS Tricks](https://css-tricks.com/) - Lots of great tips, tricks and articles on CSS
 6. [Free JavaScript resources] (https://www.java5cript.com/) - Links to some free JavaScript resources
+
+# Workshop - April 1 2pm
+
+The workshop will be based on one of the issues for this project https://github.com/wgc-hackathon/reefer-raker-dhtml/issues/1. You can register [here](https://sanger.zoom.us/webinar/register/WN_hVrRpGkDQMqzchzJs9RU1Q)
+
+# Discussions
+
+Please feel free to ask any questions, introduce yourself or show what you have been doing.
 
 
 
