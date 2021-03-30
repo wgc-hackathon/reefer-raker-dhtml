@@ -14,6 +14,64 @@
       Reefer Raker
     </a>
   </header>
-  <h1>Page 1</h1>
-</body>
+  <h1>Which boxes can be moved?</h1>
+  <table>
+    <tr>
+      <th>
+        id
+      </th>
+      <th>
+        name
+      </th>
+      <th>
+        barcode
+      </th>
+      <th>
+        Can be moved?
+      </th>
+    </tr>
+    <tr data-type="box">
+      <td data-attribute="id">1</td>
+      <td data-attribute="name">Box 1</td>
+      <td data-attribute="barcode">loc-box-1-1</td>
+      <td>
+        <input type="checkbox" name="" id="">
+      </td>
+    </tr>
+    <tr data-type="box">
+      <td data-attribute="id">2</td>
+      <td data-attribute="name">Box 2</td>
+      <td data-attribute="barcode">loc-box-2-2</td>
+      <td>
+        <input type="checkbox">
+      </td>
+    </tr>
+    <tr data-type="box">
+      <td data-attribute="id">3</td>
+      <td data-attribute="name">Box 3</td>
+      <td data-attribute="barcode">loc-box-3-3</td>
+      <td>
+        <input type="checkbox">
+      </td>
+    </tr>
+    <tr data-type="box">
+      <td data-attribute="id">4</td>
+      <td data-attribute="name">Box 4</td>
+      <td data-attribute="barcode">loc-box-4-4</td>
+      <td>
+        <input type="checkbox">
+      </td>
+    </tr>
+    <tr data-type="box">
+      <td data-attribute="id">5</td>
+      <td data-attribute="name">Box 5</td>
+      <td data-attribute="barcode">loc-box-5-5</td>
+      <td>
+        <input type="checkbox">
+      </td>
+    </tr>
+  </table>
+  <div>
+    <button onclick="submitChoices()">Submit choices</button>
+  </div>
 </html>

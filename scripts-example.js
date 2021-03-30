@@ -10,16 +10,16 @@ function submitChoices() {
     if (checkbox.checked) {
 
       const item = {}
-      item.id = box.querySelector(`[data-type="id"]`).innerHTML
-      item.name = box.querySelector(`[data-type="name"]`).innerHTML
-      item.barcode = box.querySelector(`[data-type="barcode"]`).innerHTML
+      item.id = box.querySelector(`[data-attribute="id"]`).innerHTML
+      item.name = box.querySelector(`[data-attribute="name"]`).innerHTML
+      item.barcode = box.querySelector(`[data-attribute="barcode"]`).innerHTML
       data.push(item)
     }
 
   }
 
-  alert(`boxes ${boxes.length}`);
+  // alert(`boxes ${boxes.length}`);
 
   localStorage.setItem('boxes', JSON.stringify(data))
-  console.log(data);
+  // console.log(data);
 }
