@@ -107,39 +107,3 @@ button {
   text-align: center;
   font-size: 16px;
 }
-
-/*
-caption {
-  text-align:left;
-  font-size: 30px;
-  font-weight: bold;
-}
-
-.empty {
-  background-color: green;
-  color: white;
-}
-
-.filled {
-  background-color: red;
-  color: white;
-}
-
-input {
-  width: 75%;
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  font-size: 14px;
-}
-
-.boxes-button {
-  position: relative;
-  top: 30px;
-}
-
-.checkbox {
-  width: 20%;
-  float: right;
-}
-*/
