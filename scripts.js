@@ -4,10 +4,9 @@ function submitChoices() {
   const data = []
 
   for (const box of boxes) {
-    const checkbox = box.querySelector("input[type=checkbox")
+    const checkbox = box.querySelector('input[type=checkbox]')
 
     if (checkbox.checked) {
-
       const item = {}
 
       item.id = box.querySelector(`[data-attribute="id"]`).innerHTML
@@ -19,6 +18,8 @@ function submitChoices() {
   }
 
   localStorage.setItem('boxes', JSON.stringify(data))
+  
+  alert(`${data.length} boxes have been moved to local storage`)
 }
 
 
